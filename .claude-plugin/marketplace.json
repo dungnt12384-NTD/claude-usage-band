@@ -1,0 +1,5 @@
+{
+  "name": "dungnt-mods",
+  "owner": { "name": "dungnt" },
+  "plugins": [{ "name": "usage-band", "source": "./" }]
+}
